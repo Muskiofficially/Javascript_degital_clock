@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+.container h1{
+    text-align: center;
+    font-family: cursive;
+    color: darkblue;
+    margin-top: 250px;
+}
+#clock{
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 125px;
+    margin-top: 25px;
+    font-weight: bolder;
+    color: cadetblue;
+}
